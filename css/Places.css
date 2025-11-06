@@ -1,0 +1,32 @@
+.heading
+    {
+      text-align: center;
+      color:red;
+    }
+    a{
+      text-decoration: none;
+    }
+    .card
+    {
+      height: 750px;
+      width: 300px;
+      margin:30px;
+      float: left;
+      box-shadow: rgb(17, 4, 10) 0px 20px 30px -10px;
+    }
+    .card img{
+      padding: 0px;
+      width: 100%;
+      height: 300px;
+
+    }
+    .card h3{
+      text-align: center;
+      padding: 10px;
+     color: black;
+    }
+    .card p{
+      font-variant:small-caps;
+      font-weight: 900;
+      color:dimgray;
+    }
